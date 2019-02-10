@@ -1,6 +1,5 @@
-# CSGO-CFG-
-CSGO-CFG整理  
-
+# CSGO-CFG整理  
+  
 将cfg文件放入 SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\cfg 目录下  
 然后在游戏内控制台输入 exec csgo_iclosed 即可  
 
