@@ -2,6 +2,7 @@
   
 将csgo_iclosed.cfg文件放入 SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\cfg 目录下  
 然后在游戏内控制台输入 exec csgo_iclosed 即可  
+(tips:将cfg文件改名为autoexec.cfg, 启动游戏是就会自动执行)
 
 精心整理常用的各种指令，包含详细注释  
 
